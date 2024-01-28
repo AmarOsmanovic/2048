@@ -19,8 +19,8 @@ This is a simple implementation of the popular 2048 game in Java. The objective 
      ```
    - Compile and run the game:
      ```bash
-     javac Game2048.java
-     java Game2048
+     javac 2048.java
+     java 2048
      ```
 
 3. **Gameplay:**
@@ -39,13 +39,19 @@ This is a simple implementation of the popular 2048 game in Java. The objective 
    - The game keeps track of the top 5 results.
    - Results are displayed at the end of each game.
 
-7. **Contact Information:**
-   - For any inquiries, contact Amar Osmanovic at amar.osmanovic07@gmail.com.
-
-8. **Development and Customization:**
+7. **Development and Customization:**
    - The game logic is implemented in the `igra.java` file.
    - Customize the game appearance, scoring, and other features by modifying the code.
 
-9. **Acknowledgments:**
-   - This game is inspired by the original 2048 created by Gabriele Cirulli.
 
+## Contributing
+
+If you would like to contribute to the project, please follow the steps below:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
+## Contact
+
+For any questions or inquiries, please contact amar.osmanovic07@gmail.com.
